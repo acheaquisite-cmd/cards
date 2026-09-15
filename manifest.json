@@ -1,0 +1,22 @@
+<!-- Configuração do PWA / Botão Instalar -->
+<link rel="manifest" href="data:application/manifest+json,{
+  &quot;name&quot;: &quot;Ache-Aqui.site&quot;,
+  &quot;short_name&quot;: &quot;Ache-Aqui&quot;,
+  &quot;start_url&quot;: &quot;/&quot;,
+  &quot;display&quot;: &quot;standalone&quot;,
+  &quot;background_color&quot;: &quot;#ffffff&quot;,
+  &quot;theme_color&quot;: &quot;#ffffff&quot;,
+  &quot;icons&quot;: [
+    {
+      &quot;src&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_jSY7qJjDD1_MJyXIosgT4kzffxc_S550IuiQbAcpd5XmwOy0mDPurnq5WngclpRdcY6w9Nsu_Iu2lguyWFoHR1jmEJRb0HrTjanplHJ5oMG8Rrl6ANS18ozwyWJIuFDtEYX92ywtUXuknV9vuN35hMlbm7RiLuRYW6n06XSYO8MSR976KJZUgJVzp8xh/s1600-rw/Logo.png&quot;,
+      &quot;sizes&quot;: &quot;192x192&quot;,
+      &quot;type&quot;: &quot;image/png&quot;
+    },
+    {
+      &quot;src&quot;: &quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_jSY7qJjDD1_MJyXIosgT4kzffxc_S550IuiQbAcpd5XmwOy0mDPurnq5WngclpRdcY6w9Nsu_Iu2lguyWFoHR1jmEJRb0HrTjanplHJ5oMG8Rrl6ANS18ozwyWJIuFDtEYX92ywtUXuknV9vuN35hMlbm7RiLuRYW6n06XSYO8MSR976KJZUgJVzp8xh/s1600-rw/Logo.png&quot;,
+      &quot;sizes&quot;: &quot;512x512&quot;,
+      &quot;type&quot;: &quot;image/png&quot;
+    }
+  ]
+}" />
+<meta name="theme-color" content="#ffffff"/>
